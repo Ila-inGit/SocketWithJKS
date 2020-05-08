@@ -1,7 +1,5 @@
 package org.example.event;
 
-
-import org.example.ViewClient;
 import org.example.VisitorClient;
 import org.example.VisitorServer;
 import org.example.obj.ObjInNetwork;
